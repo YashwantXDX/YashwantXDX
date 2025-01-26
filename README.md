@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwantxdx&show_icons=true&locale=en&layout=compact" alt="yashwantxdx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwantxdx&show_icons=true&locale=en" alt="yashwantxdx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantxdx&" alt="yashwantxdx" /></p>
