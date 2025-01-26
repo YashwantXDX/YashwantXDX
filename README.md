@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwant Choure</h1>
 <h3 align="center">🚀 Flutter Developer | Skilled in Dart, Firebase, Java, C++, JavaScript | Crafting sleek, cross-platform apps with passion and innovation! 🌟</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwantxdx&label=Profile%20views&color=0e75b6&style=flat" alt="yashwantxdx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwantxdx" alt="yashwantxdx" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Dart, Spring Boot, MySQL, Java**
 
