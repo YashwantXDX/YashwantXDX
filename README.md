@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <strong>Programming Languages:</strong> Dart, Java, C++, JavaScript <br>
-  <strong>Frameworks and Libraries:</strong> Flutter, Spring Boot <br>
+  <strong>Frameworks and Libraries:</strong> Flutter, Spring Boot, React.js <br>
   <strong>Databases:</strong> MySQL, Firebase <br>
   <strong>Other Tools:</strong> Postman, Git, Figma
 </p>
