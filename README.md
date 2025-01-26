@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **yashwant.chour73546@gmail.com**
 
-- ⚡ Fun fact **when you feel like you don't know anything, You are at right path.**
+- ⚡ Fun fact **when you feel like you don't know anything, You ar at right path.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashwant-choure-514737231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwant-choure-514737231" height="30" width="40" /></a>
-<a href="https://instagram.com/yashwantchour__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashwantchour__" height="30" width="40" /></a>
+<a href="https://instagram.com/yashwantchoure__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashwantchoure__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashwantxdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashwantxdx" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashwantxdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashwantxdx" height="30" width="40" /></a>
 </p>
