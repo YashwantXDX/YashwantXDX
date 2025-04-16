@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwant Choure</h1>
-<h3 align="center">🚀 Java Developer | Skilled in Java, Spring Boot, Servlet, JDBC | Crafting sleek, cross-platform apps with passion and innovation! 🌟</h3>
+<h3 align="center">🚀 Java Developer | Skilled in Java, Spring Boot, Servlet, JDBC, Dart, Flutter | Crafting sleek, cross-platform apps with passion and innovation! 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwantxdx&label=Profile%20views&color=0e75b6&style=flat" alt="yashwantxdx" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio : **https://yashwantxdx-portfolio.netlify.app/**
 
-- 💬 Ask me about **Java, Spring Boot, JDBC, MySQL**
+- 💬 Ask me about **Java, Spring Boot, JDBC, MySQL, Flutter**
 
 - 📫 How to reach me **yashwant.choure73546@gmail.com**
 
