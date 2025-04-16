@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yashwant Choure</h1>
-<h3 align="center">🚀 Flutter Developer | Skilled in Dart, Firebase, Java, C++, JavaScript | Crafting sleek, cross-platform apps with passion and innovation! 🌟</h3>
+<h3 align="center">🚀 Java Developer | Skilled in Java, Spring Boot, Servlet, JDBC | Crafting sleek, cross-platform apps with passion and innovation! 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwantxdx&label=Profile%20views&color=0e75b6&style=flat" alt="yashwantxdx" /> </p>
 
-- 🌱 I’m currently learning **🌟 Flutter, 🚀 Dart, 🍃 Spring Boot, 🛢️ MySQL, ☕ Java**
+- 🌱 I’m currently learning **🍃 Spring Boot, 🛢️ MySQL, ☕ Java**
 
-- 🤝 I’m looking to collaborate on **Flutter projects**
+- 🤝 I’m looking to collaborate on **Java and Spring Boot projects**
 
 - 👨‍💻 My Portfolio : **https://yashwantxdx-portfolio.netlify.app/**
 
-- 💬 Ask me about **Flutter, Dart, MySQL**
+- 💬 Ask me about **Java, Spring Boot, JDBC, MySQL**
 
 - 📫 How to reach me **yashwant.choure73546@gmail.com**
 
@@ -26,8 +26,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <strong>Programming Languages:</strong> Dart, Java, C++, JavaScript <br>
-  <strong>Frameworks and Libraries:</strong> Flutter, Spring Boot, React.js <br>
+  <strong>Programming Languages:</strong> Java, C++, JavaScript <br>
+  <strong>Frameworks and Libraries:</strong> JDBC, Spring Boot, React.js <br>
   <strong>Databases:</strong> MySQL, Firebase <br>
   <strong>Other Tools:</strong> Postman, Git, Figma
 </p>
