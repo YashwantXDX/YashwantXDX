@@ -28,15 +28,3 @@
   <strong>Databases:</strong> MySQL, Firebase, PostgreSQL <br>
   <strong>Other Tools:</strong> Postman, Git, Figma, PowerBI, Excel
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwantxdx&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwantxdx&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwantxdx&show_icons=true&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashwantxdx&theme=algolia" alt="GitHub Trophies" />
-  </a>
-</p>
