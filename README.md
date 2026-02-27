@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwantxdx&label=Profile%20views&color=0e75b6&style=flat" alt="yashwantxdx" /> </p>
 
-- 🌱 I’m currently learning **PowerBI, Generative AI**
+- 🌱 I’m currently learning **Generative AI, Machine Learning**
 
-- 🤝 I’m looking to collaborate on **Java and Spring Boot, Generative AI and Data Analytic projects**
+- 🤝 I’m looking to collaborate on **Java & Spring Boot, Python & FastAPI and Generative AI & Data Analytic projects**
 
-- 💬 Ask me about **Java, Spring Boot, MySQL, PowerBI, GenAI**
+- 💬 Ask me about **Java, MySQL, Python, GenAI**
 
 - 📫 How to reach me **yashwant.choure73546@gmail.com**
 
@@ -26,5 +26,5 @@
   <strong>Programming Languages:</strong> Java, Python <br>
   <strong>Frameworks and Libraries:</strong> Spring Boot, FastAPI <br>
   <strong>Databases:</strong> MySQL, PostgreSQL <br>
-  <strong>Other Tools:</strong> Postman, Git, Figma, PowerBI, Excel
+  <strong>Other Tools:</strong> Postman, Git, Figma, PowerBI, Excel, GenAI
 </p>
