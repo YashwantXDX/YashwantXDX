@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <strong>Programming Languages:</strong> Java, C++ <br>
-  <strong>Frameworks and Libraries:</strong> Spring Boot <br>
-  <strong>Databases:</strong> MySQL, Firebase, PostgreSQL <br>
+  <strong>Programming Languages:</strong> Java, Python <br>
+  <strong>Frameworks and Libraries:</strong> Spring Boot, FastAPI <br>
+  <strong>Databases:</strong> MySQL, PostgreSQL <br>
   <strong>Other Tools:</strong> Postman, Git, Figma, PowerBI, Excel
 </p>
